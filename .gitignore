@@ -86,3 +86,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Test reports and coverage
+pytest-results.txt
+.pytest_cache/
+.coverage
+htmlcov/
